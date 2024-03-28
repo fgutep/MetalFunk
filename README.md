@@ -22,7 +22,7 @@ Double Z-Axis (Which is apparently a feature nowadays).
 - <code style = "color : orangered"> Not a single V-Roller in sight besides being fully made in 2020 and 2040 T-Slot. Which is a problem. Will fix someday.</code>.
 
 <img src="https://github.com/fgutep/MetalFunk/blob/master/images/HW_2024.jpeg" width="250">
-> As of March 2024 it looks like this.
+>> As of March 2024 it looks like this.
 
 ## Where am I with the development:
 **Facts:**
@@ -36,7 +36,7 @@ Double Z-Axis (Which is apparently a feature nowadays).
 - Current of the motors. Only god and the guy who made them knows what current do they really use. While the *17HS3401* pancake Nema 17 motors i'm using have 1.2 Amps in their data sheet; they overheat a LOT when using that. Seem to run fine at 1/2 of the datasheet current and make a lot of noise anything below that.
 
 <img src="https://github.com/fgutep/MetalFunk/blob/master/images/FaMMiniature.png" width="250">
-> The Uploaded CAD File. Note that only includes metal frame and motors/endStops as every plastic piece needs to be re-designed from scratch.
+>> The Uploaded CAD File. Note that only includes metal frame and motors/endStops as every plastic piece needs to be re-designed from scratch.
 
 ## Goals and To-Do:
 - **1. Re-Design and re-print every.single.piece.of.plastic**. By this I mean every piece of 3D printed material as it's a frankenstein adaptation that I made between the [Prusa Rework](https://reprap.org/wiki/Prusa_i3_Rework_Introduction "Prusa Rework") that I was comftable since it was my first 3D printer and what I managed to make of those parts *i.e. in TinkerCAD* as an adaptation to the V-Slot profile frame.
@@ -61,7 +61,7 @@ When they are. I Hope that By Summer 2024 I am at least by objective **#4**. But
 |  2019-2020 | Fgutep  | 50+ Hours  |
 | Dec 2023- Jan 2024  | Fgutep  |  20+ Hours |
 | March 2024 (Holy Week) | Fgutep  |  10+ Hours |
-|   |  Total ATM | ~80 Hours at Least  |
+|   |  Total ATM | ~80 Hours atleast  |
 
 A free tip: Dont design, make and document a 3D printer as a 9th grade school project.
 
