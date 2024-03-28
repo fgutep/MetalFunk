@@ -23,6 +23,7 @@ Double Z-Axis (Which is apparently a feature nowadays).
 
 <img src="https://github.com/fgutep/MetalFunk/blob/master/images/HW_2024.jpeg" width="250">
 > As of March 2024 it looks like this.
+
 ## Where am I with the development:
 **Facts:**
 - It has a decent and usable aluminum frame.
