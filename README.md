@@ -20,7 +20,7 @@ While it's been a very, very *edcuative* process, I'm now tryiong to make someth
 - Marlin 2.0.1.
 Double Z-Axis (Which is apparently a feature nowadays).
 - <code style = "color : orangered"> Not a single V-Roller in sight besides being fully made in 2020 and 2040 T-Slot. Which is a problem. Will fix someday.</code>.
-![It looks Like This at the moment](https://github.com/fgutep/MetalFunk/blob/master/images/HW_2024.jpeg | width=300)
+> As of March 2024 it looks like this.
 ## Where am I with the development:
 **Facts:**
 - It has a decent and usable aluminum frame.
@@ -31,8 +31,9 @@ Double Z-Axis (Which is apparently a feature nowadays).
 ### What I do not understand:
 - The thing skips layers when printing anything above 40 minutes and starts shifting the object upfront making it unusable.
 - Current of the motors. Only god and the guy who made them knows what current do they really use. While the *17HS3401* pancake Nema 17 motors i'm using have 1.2 Amps in their data sheet; they overheat a LOT when using that. Seem to run fine at 1/2 of the datasheet current and make a lot of noise anything below that.
-![The CAD File Uploaded on March 2024 only Motors and Frame](https://github.com/fgutep/MetalFunk/blob/master/images/FaMMiniature.png | width=300)
-> Note only includes metal frame and motors as every plastic piece needs to be re-designed from scratch.
+- <img src="https://github.com/fgutep/MetalFunk/blob/master/images/FaMMiniature.png" width="250">
+
+> The Uploaded CAD File. Note that only includes metal frame and motors/endStops as every plastic piece needs to be re-designed from scratch.
 ## Goals and To-Do:
 - **1. Re-Design and re-print every.single.piece.of.plastic**. By this I mean every piece of 3D printed material as it's a frankenstein adaptation that I made between the [Prusa Rework](https://reprap.org/wiki/Prusa_i3_Rework_Introduction "Prusa Rework") that I was comftable since it was my first 3D printer and what I managed to make of those parts *i.e. in TinkerCAD* as an adaptation to the V-Slot profile frame.
 - **2. Put a better board in it** like the aforementioned 4.2.7 Non-Silent Board OR the BIGTREETECH SKR Mini E3 V3.0. As I suspect 90% of my problems have to do with using *The Defunkt RAMPS*.
