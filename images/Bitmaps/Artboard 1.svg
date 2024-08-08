@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 64">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+      }
+
+      .cls-1, .cls-2 {
+        stroke: #000;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-3 {
+        letter-spacing: 0em;
+      }
+
+      .cls-4 {
+        letter-spacing: -.07em;
+      }
+
+      .cls-5 {
+        font-family: Rubik-Medium, Rubik;
+        font-size: 21px;
+        font-variation-settings: 'wght' 500;
+        font-weight: 500;
+      }
+
+      .cls-6 {
+        letter-spacing: -.02em;
+      }
+
+      .cls-7 {
+        font-family: OCRAExtended, 'OCR A Extended';
+        font-size: 12px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <rect class="cls-2" x="19.57" y="6.3" width="18.52" height="18.52"/>
+  <text class="cls-5" transform="translate(20.53 22.55)"><tspan x="0" y="0">ME</tspan><tspan class="cls-4" x="30.09" y="0">T</tspan><tspan x="41.26" y="0">A</tspan><tspan class="cls-6" x="55.82" y="0">L</tspan></text>
+  <text class="cls-5" transform="translate(50.68 40.38)"><tspan x="0" y="0">HUN</tspan><tspan class="cls-3" x="45.13" y="0">K</tspan></text>
+  <text class="cls-7" transform="translate(5.84 59.36)"><tspan x="0" y="0">&gt;/ By FGUTEP</tspan></text>
+  <rect class="cls-1" x="95.58" y="23.85" width="18.52" height="18.52"/>
+</svg>
